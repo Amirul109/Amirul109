@@ -2,6 +2,8 @@
 ### My Name is Amirul
 ### I am from Kebumen
 
+![1](https://github.com/Amirul109/Amirul109/assets/116171779/cd762a14-b7b0-42ea-85e4-aeb3f07b3039)
+
 <!--
 **Amirul109/Amirul109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,13 +35,6 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
  
-  <h2>Another</h2>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-  
 
 Copyright and License
 Copyright 2022-2023 Astrava.Solutions Ltd. Code released under the MIT license.
