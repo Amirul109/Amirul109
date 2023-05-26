@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### My Name is Amirul
-### I am from Kebumen
-
-![3-modified](https://github.com/Amirul109/Amirul109/assets/116171779/a4a14b1d-c91d-4ae1-a36b-86e8fde387ec)
+### I am from Kebumen ![3-modified](https://github.com/Amirul109/Amirul109/assets/116171779/a4a14b1d-c91d-4ae1-a36b-86e8fde387ec)
 
 
 
