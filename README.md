@@ -1,49 +1,9 @@
-### Hi there 👋
-### My Name is Amirul
-### I am from Kebumen ![3-modified](https://github.com/Amirul109/Amirul109/assets/116171779/a4a14b1d-c91d-4ae1-a36b-86e8fde387ec)
+## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+<p>
+  <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
+</p>
 
-
-
-<!--
-**Amirul109/Amirul109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
- 
-
-Copyright and License
-Copyright 2022-2023 Astrava.Solutions Ltd. Code released under the MIT license.
+### Connect with me:
+<a href="https://www.instagram.com/irulnin_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://www.youtube.com/channel/UCkFAH0sBFpQYftbKBM2lqRg" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
+<a href="https://web.facebook.com/amir.ul.9828456/_" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" height="32px" alt="Facebook"></a>
