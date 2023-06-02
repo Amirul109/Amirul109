@@ -7,3 +7,5 @@
 <a href="https://www.instagram.com/irulnin_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.youtube.com/channel/UCkFAH0sBFpQYftbKBM2lqRg" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
 <a href="https://web.facebook.com/amir.ul.9828456/_" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" height="32px" alt="Facebook"></a>
+<a href="https://github.com/Amirul109_" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=facebook&logoColor=white" height="32px" alt="Github"></a>
+
